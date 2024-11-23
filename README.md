@@ -1,7 +1,6 @@
 # Open Transport
 
 Application web pour covoiturage. 
-N'importe quoi 
 
 MODIF pour l'issue 3
 
